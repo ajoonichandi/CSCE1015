@@ -4,3 +4,5 @@ Assignment repository for UNT CSCE1015
 
 ## Favorite Linux Command
 cd
+## EUID
+akc0260
